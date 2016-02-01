@@ -1,0 +1,61 @@
+body	{
+	background-color: #e6e6e6;
+}
+
+#Title {
+	background-color: #e6e6e6;
+	border-bottom: 4px solid blue;
+}
+
+table {
+	float right;
+	background-color: yellow;
+	border: 1px solid green;
+}
+
+td {
+	border: 1px solid green;
+}
+
+a:hover {
+
+	color: green;
+	font-family: cursive;
+}
+
+.Directions {
+	float: left;
+}
+
+.AdvanceLinks {
+	float: left;
+}
+
+#MashedPotatoImg {
+	float: left;
+	box-shadow: 10px 10px 5px black;
+	margin-right: 40px;
+}
+
+#ClockImg {
+	height: 50px;
+	width: 50px;
+	float: left;
+
+}
+
+#TastyFaceImg {
+	height:300px;
+	width: 300px;
+	float: right;
+	border: 2px solid green;
+	border-radius: 50%;
+}
+
+#HideImg {
+	background-color: yellow;
+	float: left;
+	border: 1px solid green;
+	clear: both;
+
+}
